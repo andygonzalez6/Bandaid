@@ -1,0 +1,1 @@
+My name is Kirill. I'm a 4th year CS student. I like backpacking, skating, and shawarma. I don't like spicy food and writing self introductions. If anyone knows a place where I can watch Tron: Legacy on big screen with a decent audio system, ping me in Slack. I'm looking forward to learning about DART and making a working app this quarter!

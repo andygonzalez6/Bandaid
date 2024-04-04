@@ -1,0 +1,11 @@
+Andy Gonzalez contributions:
+- I designed the registration flow: the user information page and the logic associated with receiving the forms.
+- I designed the messages page and the direct messaging pages, I implemented the socket.io logic associated with them.
+- I added followers and following to our backend, and created a follower and following page in our frontend.
+- I added and desgined the search page, and implemented the logic in searching and finding other users.
+- I added and designed the home page that displays all the users, with sorting tags that allow the current user to sort through all the users.
+- I created user_cards that display the user with the user's information.
+- I added the logic to upload profile pics, working off of my teamates Aviv solution.
+- I added a media player in the profile page, along with the logic to upload a sound track and clipping to to fifteen seconds.
+- I also debugged some backend API points associated with returning chat logs, and creating other API endpoints to fetch all user's instruments and genres.
+- Lastly, I implemented the email sign in and signup logic in the frontend.

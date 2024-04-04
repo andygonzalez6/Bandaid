@@ -1,0 +1,1 @@
+Hello, there! I am Leon. I am a fourth year computer science major that has a passion building full stack web application and data pipeline. The reason I take this class is because I want to learn more about mobile application development. I look forward to learn a lot from everyone on my team!

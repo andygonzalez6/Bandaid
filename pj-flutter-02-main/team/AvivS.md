@@ -1,0 +1,1 @@
+I'm Aviv Samet, I'm a 5th year computer science major. I'm interested in computer graphics and game development. I'm also interested in machine learning and AI. I'm excited to work on this project and learn more about flutter and dart. I'm also excited to work with my team members and build something cool.
